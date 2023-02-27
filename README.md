@@ -1,2 +1,1 @@
-# PrepCourse-FullStack
-Repositorio para el PrepCourse Full Stack Developer
+Prueba para ver como crear un repositorio en Github
